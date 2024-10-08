@@ -1,5 +1,5 @@
 # 👋 Introduction
-In the first year of my Computer Science degree, I completed a module on Object-Oriented Programming where I was tasked to individually develop a program for a fictional QUB photgraphy department. This program organises a collection of images across a range genres to create and display albums.
+In the first year of my Computer Science degree, I completed a module on Object-Oriented Programming where I was tasked to individually develop a program for a fictional QUB photography department. This program organises a collection of images across a range genres to create and display albums.
 
 ---
 
